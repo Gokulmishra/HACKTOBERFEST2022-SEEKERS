@@ -10,3 +10,5 @@ participate in [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)! ðŸ
 -Dont break any rules.
 
 -Be patient for your PR to be accepted!
+
+-Also do not send multiple spam pr merge requests
